@@ -8,7 +8,7 @@ layout: default
     <img src="{{ 'images/IMG_0492 copy (1).jpg' | absolute_url }}" style="float:right;width:40%">
 </div>
 
-I am a PhD candidate at the [Earth and Space Sciences Department](https://www.ess.washington.edu/), University of Washington. I study glaciology and use data from geophysical techniques and modeling to study changes in the near-surface and englacial processes of alpine glaciers and ice sheets. I also avidly pursue cryospheric science communication and outreach and work to further diversity, equity, and inclusivity initiatives at the University of Washington.
+I am a PhD candidate at the [Earth and Space Sciences Department](https://www.ess.washington.edu/), University of Washington. I study glaciology and use data from geophysical techniques and modeling to study changes in the near-surface and englacial processes of alpine glaciers and ice sheets. I also pursue cryospheric science communication and further DEI initiatives at the University of Washington.
 
 Email: annikah2@uw.edu 
 
