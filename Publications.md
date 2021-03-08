@@ -6,10 +6,8 @@ layout: default
 
 # Peer-Reviewed Publications
 
-**Nicholas Wogan**, Joshua Krissansen-Totton and David Catling (2020). Abundant Atmospheric Methane from Volcanism on Terrestrial Planets Is Unlikely and Strengthens the Case for Methane as a Biosignature. *The Planetary Science Journal*. [DOI:10.3847/PSJ/abb99e](https://doi.org/DOI:10.3847/PSJ/abb99e).
+**Horlings, Annika N.**, Knut Christianson, Nicholas Holschuh, C. Max Stevens, and Edwin D. Waddington (2020) Effect of horizontal divergence on estimates of firn-air content, *Journal of Glaciology*, 1-10 [DOI:https://doi.org/10.1017/jog.2020.105](https://doi.org/10.1017/jog.2020.105)
 
-Kevin Zahnle, Roxana Lupu, David Catling, and **Nicholas Wogan** (2020). Creation and Evolution of Impact-generated Reduced Atmospheres of Early Earth. *The Planetary Science Journal*. [DOI:10.3847/PSJ/ab7e2c](https://doi.org/10.3847/PSJ/ab7e2c).
-
-**Nicholas Wogan** and David Catling (2020). When is chemical disequilibrium in Earth-like planetary atmospheres a biosignature versus an anti-biosignature? Disequilibria from dead to living worlds. *The Astrophysical Journal*. [DOI:10.3847/1538-4357/ab7b81](https://doi.org/10.3847/1538-4357/ab7b81).
+Stevens, C. Max, Vincent Verjans, Jessica Lundin, Emma C. Kahle, **Annika N. Horlings**, Brita I. Horlings, and Edwin D. Waddington (2020) The Community Firn Model (CFM) v1. 0, *Geoscientific Model Development*, 13, no. 9, 4355-4377 [https://doi.org/10.5194/gmd-13-4355-2020](https://doi.org/10.5194/gmd-13-4355-2020)
 
 <!-- # Conference Abstracts and Talks -->
