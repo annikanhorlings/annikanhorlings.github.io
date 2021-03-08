@@ -5,7 +5,7 @@
 layout: default
 ---
 <div>
-    <img src="{{ 'images/IMG_0492 copy (1).jpg' | absolute_url }}" style="float:right;width:40%">
+    <img src="{{ 'images/Annika2.jpg' | absolute_url }}" style="float:right;width:40%">
 </div>
 
 I am a PhD candidate at the [Earth and Space Sciences Department](https://www.ess.washington.edu/), University of Washington. I study glaciology and use data from geophysical techniques and modeling to study changes in the near-surface and englacial processes of alpine glaciers and ice sheets. I also pursue cryospheric science communication and further DEI initiatives at the University of Washington.
