@@ -12,4 +12,4 @@ I am a PhD candidate at the [Earth and Space Sciences Department](https://www.es
 
 Email: annikah2@uw.edu 
 Github: [https://github.com/annikanhorlings](https://github.com/annikanhorlings) 
-Blog: [https://annikahorlings.wixsite.com/blog] (https://annikahorlings.wixsite.com/blog)
+Blog: [https://annikahorlings.wixsite.com/blog](https://annikahorlings.wixsite.com/blog)
