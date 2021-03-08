@@ -11,5 +11,7 @@ layout: default
 I am a PhD candidate at the [Earth and Space Sciences Department](https://www.ess.washington.edu/), University of Washington. I study glaciology and use data from geophysical techniques and modeling to study changes in the near-surface and englacial processes of alpine glaciers and ice sheets. I also avidly pursue cryospheric science communication and outreach and work to further diversity, equity, and inclusivity initiatives at the University of Washington.
 
 Email: annikah2@uw.edu 
+
 Github: [https://github.com/annikanhorlings](https://github.com/annikanhorlings) 
+
 Blog: [https://annikahorlings.wixsite.com/blog](https://annikahorlings.wixsite.com/blog)
