@@ -13,10 +13,13 @@ I am a PhD candidate at the [Earth and Space Sciences Department](https://www.es
 EDUCATION
 
 PhD in Earth and Space Sciences, anticipated 2022
+
 University of Washington
 
 B.S. in Geology, summa cum laude, 2016
+
 Portland State University
+
 
 
 CONTACT
